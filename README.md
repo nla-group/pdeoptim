@@ -4,10 +4,8 @@ These are the MATLAB files accompanying the paper
 
 ```
    Stefan Guettel and John W. Pearson, 
-   A spectral-in-time Newton--Krylov method 
-   for nonlinear PDE-constrained optimization,  
-   IMA Journal of Numerical Analysis, 
-   42(2):1478-1499, 2022. 
+   A spectral-in-time Newton--Krylov method for nonlinear PDE-constrained optimization,  
+   IMA Journal of Numerical Analysis, 42(2):1478-1499, 2022. 
    https://doi.org/10.1093/imanum/drab011 
 ```
 
