@@ -1,11 +1,14 @@
 # pdeoptim
 
-These are the MATLAB files accompanying the manuscript  
+These are the MATLAB files accompanying the paper  
 
 ```
+   Stefan Guettel and John W. Pearson, 
    A spectral-in-time Newton--Krylov method 
-   for nonlinear PDE-constrained optimization
-   by Stefan Guettel and John W. Pearson, 2020.
+   for nonlinear PDE-constrained optimization,  
+   IMA Journal of Numerical Analysis, 
+   42(2):1478-1499, 2022. 
+   https://doi.org/10.1093/imanum/drab011 
 ```
 
 There are five driver files that generate all the figures and tables in that paper:
